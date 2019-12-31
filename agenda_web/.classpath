@@ -44,11 +44,44 @@
 	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/apache-collections-commons-collections-3.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/commons-beanutils-1.7.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/apache-collections-commons-collections-3.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/apache-collections-commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/apache-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/commons-logging-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/displaytag-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/displaytag-export-poi-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/displaytag-portlet-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/itext-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/jasper-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/jcl104-over-slf4j-1.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/jdbc-oracle.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/jstl-api-1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/jstl-standard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/ojdbc14-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/ojdbc14-10.2.0.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/poi-3.2-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/OJDBC-Full/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/OJDBC-Full/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/OJDBC-Full/ons.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/OJDBC-Full/orai18n.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/OJDBC-Full/simplefan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/OJDBC-Full/ucp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samuel.silva/Documents/JAVA/jars/OJDBC-Full/xdb6.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

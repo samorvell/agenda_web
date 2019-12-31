@@ -5,6 +5,20 @@
 <!DOCTYPE html>
 <html>
 <head>
+ <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="content-language" content="pt-br" />
+  <meta http-equiv="imagetoolbar" content="no" />
+  <meta name="author" content="Samuel Amaro Silva" />
+  <meta name="robots" content="index, follow" />
+  <meta name="revisit-after" content="3 days" />
+  <meta name="keywords" content="Ivan Oliveira" />
+  <meta name="description" content="Ivan Oliveira" />
+  <meta name="format-detection" content="telephone=no">
+  <meta name="MobileOptimized" content="320">
+  <meta name="HandheldFriendly" content="True">
+  <meta http-equiv="cleartype" content="on">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <link href="imagens/favicon.ico" type="imagens/ico" rel="shortcut icon" />
 <!--<link rel="stylesheet" href="CSS/lojavirtual.css">-->

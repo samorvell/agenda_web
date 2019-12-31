@@ -19,7 +19,7 @@ public class ListaContatosLogic implements Logica{
 			// Guarda a lista no request
 			req.setAttribute("contatos", contatos);
 			
-			return "mvc?logica=ListaContatosLogic";
+			return "/WEB-INF/JSP/lista-contatos.jsp";
 			}
 
 }
