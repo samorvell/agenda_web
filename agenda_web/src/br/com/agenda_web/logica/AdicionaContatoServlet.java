@@ -1,4 +1,4 @@
-package br.com.agenda_web.servlet;
+package br.com.agenda_web.logica;
 
 import java.io.IOException;
 import java.io.PrintWriter;
