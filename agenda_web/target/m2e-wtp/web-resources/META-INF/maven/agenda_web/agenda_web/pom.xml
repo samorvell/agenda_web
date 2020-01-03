@@ -9,6 +9,12 @@
 	<name>Agenda Web</name>
 	<description>agenda</description>
 	<dependencies>
+		<!-- https://mvnrepository.com/artifact/oracle/oracle-jdbc -->
+		<dependency>
+			<groupId>oracle</groupId>
+			<artifactId>oracle-jdbc</artifactId>
+			<version>12.1.0.2</version>
+		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
