@@ -63,7 +63,7 @@ public class AdicionaContatoServlet extends HttpServlet {
 			e.printStackTrace();
 		}
 		// imprime o nome do contato que foi adicionado
-		RequestDispatcher rd = request.getRequestDispatcher("/contato-adicionado.jsp");
+		RequestDispatcher rd = request.getRequestDispatcher("WEB-INF/JSP/contato-adicionado.jsp");
 		rd.forward(request, response);
 
 	}

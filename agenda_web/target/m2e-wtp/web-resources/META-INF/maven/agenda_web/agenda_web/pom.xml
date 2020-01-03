@@ -9,11 +9,17 @@
 	<name>Agenda Web</name>
 	<description>agenda</description>
 	<dependencies>
+		<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>5.4.10.Final</version>
+		</dependency>
 		<!-- https://mvnrepository.com/artifact/oracle/oracle-jdbc -->
 		<dependency>
 			<groupId>oracle</groupId>
 			<artifactId>oracle-jdbc</artifactId>
-			<version>11.2.0.3.0</version>
+			<version>12.1.0.2</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
 		<dependency>

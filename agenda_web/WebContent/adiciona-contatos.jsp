@@ -40,7 +40,7 @@
 
 </head>
 <body>
-	<c:import url="Cabecalho.jsp" />
+	<c:import url="WEB-INF/JSP/Cabecalho.jsp" />
 	<div class="squad" id="area" id="formulario">
 
 
@@ -73,6 +73,6 @@
 
 
 
-	<c:import url="Rodape.jsp" />
+	<c:import url="WEB-INF/JSP/Rodape.jsp" />
 </body>
 </html>

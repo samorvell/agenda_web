@@ -10,7 +10,7 @@ public class PrimeiraLogica implements Logica {
 		System.out.println("Executando a logica! ...");
 		System.out.println("Retornando o nome da pagina JSP ...");
 
-		return "primeira-logica.jsp";
+		return "WEB-INF/JSP/primeira-logica.jsp";
 	}
 
 }

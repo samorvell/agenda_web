@@ -11,7 +11,7 @@
 <body>
 <c:import url="Cabecalho.jsp" />
 
-<a href="lista-contatos.jsp">Lista contatos</a>
+<a href="mvc?logica=ListaContatosLogic">Lista contatos</a>
 
 <h2>Contato ${param.nome} adicionado com sucesso</h2>
 
