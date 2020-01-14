@@ -1,22 +1,12 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"
-	xmlns:th="http://www.thymeleaf.org">
+	xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorator="LayoutPadrao">
 <head>
-<meta charset="UTF-8" />
 <title>Cadastro de título</title>
-<link rel="stylesheet" type="text/css" href="/CSS/bootstrap.min.css" />
-<link rel="stylesheet" type="text/css" href="/CSS/style.css" />
 </head>
-<body>
-	<nav class="navbar navbar-inverse navbar-static-top">
-		<div class="container-fluid">
-			<div class="navbar-header">
-				<a class="navbar-br and" href="#"> <img alt="Samorvell"
-					src="/images/logo70x70.png">
-				</a>
-			</div>
-		</div>
-	</nav>
+<section layout:fragment="conteudo">
 	<form class="form-horizontal" method="POST" action="/titulos">
 		<div class="alert alert-sucess" th:if="${!#strings.isEmpty(mensagem)}">
 			<span th:text="${mensagem}">Título salvo com sucesso!!!</span>
@@ -64,7 +54,5 @@
 			</div>
 		</div>
 	</form>
-	<script src="/JS/jquery-3.4.1.min.js"></script>
-	<script src="/JS/bootstrap.min.js"></script>
-</body>
+</section>
 </html>

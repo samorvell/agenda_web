@@ -13,11 +13,11 @@
 	padding-top: 12px;
 }
 
-.aw-titulo-panel{
+.sml-titulo-panel{
 	float: left;
-	padding-top: 2px;
+	padding-top: 0px;
 }
-.aw-link-panel{
+.sml-link-panel{
 	float: right;
 	padding: 0px;
 }
