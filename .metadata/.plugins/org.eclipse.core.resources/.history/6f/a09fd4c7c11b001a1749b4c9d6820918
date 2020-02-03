@@ -1,0 +1,8 @@
+package br.com.agenda_web.servlet;
+
+import javax.servlet.annotation.WebServlet;
+
+@WebServlet("/mvc")
+public class ControllerServlet {
+
+}

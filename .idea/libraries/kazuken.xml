@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kazuken">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kazuken.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

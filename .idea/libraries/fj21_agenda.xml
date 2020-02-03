@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="fj21-agenda">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fj21-agenda/mysql-connector-java-5.1.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fj21-agenda/mysql-connector-java-5.1.47.zip!/" />
+      <root url="jar://$PROJECT_DIR$/fj21-agenda/mysql-connector-java-5.1.47-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

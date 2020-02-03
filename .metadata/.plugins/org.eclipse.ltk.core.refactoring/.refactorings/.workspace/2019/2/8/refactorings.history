@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;udemy-20190202T204502Z-001.zip_expanded&apos; to &apos;udemy-course&apos;&#x0D;&#x0A;- Original element: &apos;udemy-20190202T204502Z-001.zip_expanded&apos;&#x0D;&#x0A;- Renamed element: &apos;udemy-20190202T204502Z-001.zip_expanded&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;udemy-20190202T204502Z-001.zip_expanded&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=udemy-20190202T204502Z-001.zip_expanded" name="udemy-course" references="true" stamp="1550363861340" version="1.0"/>
+</session>

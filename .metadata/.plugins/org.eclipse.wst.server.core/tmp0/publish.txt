@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sun Jan 05 11:27:19 BRT 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\samuel.silva\\.m2\\repository\\org\\springframework\\spring-web\\5.2.2.RELEASE\\spring-web-5.2.2.RELEASE.jar=C\:\\Users\\samuel.silva\\Documents\\JAVA\\apache_tomcat\\apache-tomcat-9.0.27\\wtpwebapps\\agenda_web\\WEB-INF\\lib\\spring-web-5.2.2.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\samuel.silva\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\9.0.29\\tomcat-embed-websocket-9.0.29.jar=C\:\\Users\\samuel.silva\\Documents\\JAVA\\apache_tomcat\\apache-tomcat-9.0.27\\wtpwebapps\\agenda_web\\WEB-INF\\lib\\tomcat-embed-websocket-9.0.29.jar
+org.eclipse.jst.jee.server\:agenda_web=C\:\\Users\\samuel.silva\\Documents\\JAVA\\apache_tomcat\\apache-tomcat-9.0.27\\wtpwebapps\\agenda_web

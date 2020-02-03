@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\samuel.silva\eclipse-workspace\"/>
+			<item value="C:\Users\samuel.silva\eclipse-workspace\kazuken"/>
+			<item value="C:\Users\samuel.silva\eclipse-workspace\samorvell"/>
+			<item value="C:\Users\samuel.silva\eclipse-workspace\samorvell1"/>
+			<item value="C:\Users\samuel.silva\eclipse-workspace\demo"/>
+			<item value="C:\Users\samuel.silva\Documents\JAVA\samorvell"/>
+			<item value="C:\Users\samuel.silva\Documents\JAVA\Samorvell"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

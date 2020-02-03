@@ -1,0 +1,59 @@
+[33mcommit 3c3ca381e3a3473c350ba41fca25aabd9b5fcec6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Samuel Silva <samuel_amaro_4@hotmail.com>
+Date:   Sun Jan 12 19:56:35 2020 -0300
+
+    Incluir projeto cobrança
+
+[33mcommit 78d2672e3741f71f9e807b0021d516cca147762f[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Samuel Silva <samuel_amaro_4@hotmail.com>
+Date:   Sun Jan 12 19:49:10 2020 -0300
+
+    first commit
+
+[33mcommit 43fe1e0e52b8ee886c1b1d40e76cc3863fc49943[m
+Author: Samuel Silva <samuel_amaro_4@hotmail.com>
+Date:   Sun Jan 5 11:20:55 2020 -0300
+
+    correção pom oracle
+
+[33mcommit eeee1609d4507dc903dd372d327e2c6ddd5d45d1[m
+Author: Samuel Silva <samuel_amaro_4@hotmail.com>
+Date:   Fri Jan 3 15:55:07 2020 -0300
+
+    correções de url
+
+[33mcommit 5d3a7b95bcf2f8861b3dcaacd8e6406b368968f7[m
+Author: Samuel Silva <samuel_amaro_4@hotmail.com>
+Date:   Fri Jan 3 02:32:52 2020 -0300
+
+    atualizado com oracle 11
+
+[33mcommit 4af30fb7ea3cd08869830a0cceec06273f9ee4ef[m
+Author: Samuel Silva <samuel_amaro_4@hotmail.com>
+Date:   Fri Jan 3 02:29:06 2020 -0300
+
+    incluindo maven oracle 12 jdbc
+
+[33mcommit 76bb64f0dbb282d51dc88563fd2fa68bb796d8ad[m
+Author: Samuel Silva <samuel_amaro_4@hotmail.com>
+Date:   Fri Jan 3 02:25:54 2020 -0300
+
+    atualização heroku
+
+[33mcommit 164a71de8ecf825f69277866b452ffc293152368[m
+Author: Samuel Silva <samuel_amaro_4@hotmail.com>
+Date:   Fri Jan 3 02:19:33 2020 -0300
+
+    atualiza heroku
+
+[33mcommit 22cac551f30ee2604b1476fc8ec0f9b98a9f93fd[m
+Author: Samuel Silva <samuel_amaro_4@hotmail.com>
+Date:   Tue Dec 31 17:53:17 2019 -0300
+
+    heroku atualizacao
+
+[33mcommit 097234b23d8ed64c8aadd54248686f2e69ed4dc3[m
+Author: Samuel Silva <samuel_amaro_4@hotmail.com>
+Date:   Wed Dec 18 19:03:14 2019 -0300
+
+    primeiro commit

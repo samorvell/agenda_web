@@ -1,0 +1,10 @@
+package br.com.samuel.jbdc.teste;
+
+public class TestaAltera {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

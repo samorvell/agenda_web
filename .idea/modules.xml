@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/samorvell/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/samorvell/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kazuken/.mvn/.mvn1.iml" filepath="$PROJECT_DIR$/kazuken/.mvn/.mvn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FJ21-webagenda/FJ21-webagenda.iml" filepath="$PROJECT_DIR$/FJ21-webagenda/FJ21-webagenda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agenda_web/agenda_web.iml" filepath="$PROJECT_DIR$/agenda_web/agenda_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agendaweb/agendaweb.iml" filepath="$PROJECT_DIR$/agendaweb/agendaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fj21-agenda/fj21-agenda.iml" filepath="$PROJECT_DIR$/fj21-agenda/fj21-agenda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kazuken/src/main/main.iml" filepath="$PROJECT_DIR$/kazuken/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samorvell/src/main/main1.iml" filepath="$PROJECT_DIR$/samorvell/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fj21-agenda/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.iml" filepath="$PROJECT_DIR$/fj21-agenda/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-example/spring-mvc-example.iml" filepath="$PROJECT_DIR$/spring-mvc-example/spring-mvc-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kazuken/src/test/test.iml" filepath="$PROJECT_DIR$/kazuken/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samorvell/src/test/test1.iml" filepath="$PROJECT_DIR$/samorvell/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udemy-20190202T204502Z-001.zip_expanded/udemy-20190202T204502Z-001.zip_expanded.iml" filepath="$PROJECT_DIR$/udemy-20190202T204502Z-001.zip_expanded/udemy-20190202T204502Z-001.zip_expanded.iml" />
+    </modules>
+  </component>
+</project>

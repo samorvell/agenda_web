@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/agendaweb/WebContent/WEB-INF/lib/osdt_cert.jar!/" />
+      <root url="jar://$PROJECT_DIR$/agendaweb/WebContent/WEB-INF/lib/osdt_core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/agendaweb/WebContent/WEB-INF/lib/ons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/agendaweb/WebContent/WEB-INF/lib/ojdbc8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/agendaweb/WebContent/WEB-INF/lib/xdb6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/agendaweb/WebContent/WEB-INF/lib/ucp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/agendaweb/WebContent/WEB-INF/lib/simplefan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/agendaweb/WebContent/WEB-INF/lib/oraclepki.jar!/" />
+      <root url="jar://$PROJECT_DIR$/agendaweb/WebContent/WEB-INF/lib/orai18n.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
